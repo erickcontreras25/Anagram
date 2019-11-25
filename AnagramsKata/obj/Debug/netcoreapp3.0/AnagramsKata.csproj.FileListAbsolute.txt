@@ -1,0 +1,11 @@
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.exe
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.deps.json
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.runtimeconfig.json
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.runtimeconfig.dev.json
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.dll
+C:\vanguardia\projects\Anagrams\AnagramsKata\bin\Debug\netcoreapp3.0\AnagramsKata.pdb
+C:\vanguardia\projects\Anagrams\AnagramsKata\obj\Debug\netcoreapp3.0\AnagramsKata.csprojAssemblyReference.cache
+C:\vanguardia\projects\Anagrams\AnagramsKata\obj\Debug\netcoreapp3.0\AnagramsKata.AssemblyInfoInputs.cache
+C:\vanguardia\projects\Anagrams\AnagramsKata\obj\Debug\netcoreapp3.0\AnagramsKata.AssemblyInfo.cs
+C:\vanguardia\projects\Anagrams\AnagramsKata\obj\Debug\netcoreapp3.0\AnagramsKata.dll
+C:\vanguardia\projects\Anagrams\AnagramsKata\obj\Debug\netcoreapp3.0\AnagramsKata.pdb
